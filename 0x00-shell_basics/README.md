@@ -15,3 +15,6 @@ Script to list all files including hidden files in a long list format
 
 ## 5-listfilesdigitonly
 Script to display group IDs numerically, hidden files in long format
+
+## 6-firstdirectory
+A script to create a directory within another directory
