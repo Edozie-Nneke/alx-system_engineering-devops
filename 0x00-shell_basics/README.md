@@ -18,3 +18,6 @@ Script to display group IDs numerically, hidden files in long format
 
 ## 6-firstdirectory
 A script to create a directory within another directory
+
+## 7-movethatfile
+A script to move the file betty into /tmp/my_first_directory/
