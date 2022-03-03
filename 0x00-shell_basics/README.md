@@ -9,3 +9,6 @@ Sript to change the working directory to the user's home directory
 
 ## 3-listfiles
 Script to list content of a directory in a long list format
+
+## 4-listmorefiles
+Script to list all files including hidden files in a long list format
