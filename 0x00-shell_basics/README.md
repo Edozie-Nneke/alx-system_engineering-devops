@@ -30,3 +30,15 @@ Script to delete a directory
 
 ## 10-back
 Changing the working directory to the previous working directory via command script
+
+## 11-lists
+Script that list all hidden files in parent and working dir and /boot dir in order in long format.
+
+## 12-file_type
+Script to display type of file
+
+## 13-symbolic_link
+Script to create a symbolic link
+
+## 14-copy_html
+A script that copies all .html files
