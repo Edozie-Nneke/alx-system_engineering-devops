@@ -24,3 +24,6 @@ A script to move the file betty into /tmp/my_first_directory/
 
 ## 8-firstdelete
 Script to delete file
+
+## 9-firstdirdeletion
+Script to delete a directory
