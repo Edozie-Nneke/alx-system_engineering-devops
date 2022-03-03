@@ -12,3 +12,6 @@ Script to list content of a directory in a long list format
 
 ## 4-listmorefiles
 Script to list all files including hidden files in a long list format
+
+## 5-listfilesdigitonly
+Script to display group IDs numerically, hidden files in long format
