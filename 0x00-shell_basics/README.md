@@ -27,3 +27,6 @@ Script to delete file
 
 ## 9-firstdirdeletion
 Script to delete a directory
+
+## 10-back
+Changing the working directory to the previous working directory via command script
