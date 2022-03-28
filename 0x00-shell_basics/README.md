@@ -42,3 +42,18 @@ Script to create a symbolic link
 
 ## 14-copy_html
 A script that copies all .html files
+
+## 100-lets_move
+A script to move all files beginning with an uppercase letter to a directory
+
+## 101-clean_emacs
+A script that deletes all files in the current directory that ends with ~.
+
+## 102-tree
+A script that creates multipe directories with one command
+
+## 103-commas
+Life is a series of commas, not periods
+
+## school.mgc
+Creating a magic file that can be used with the command file to detect data files
